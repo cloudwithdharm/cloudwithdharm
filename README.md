@@ -3,329 +3,268 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5E2CA5&height=220&section=header&text=Dharmendra%20Prasad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevSecOps%20%7C%20Azure%20Cloud%20%7C%20Terraform%20%7C%20Platform%20Governance&descAlignY=58&descSize=18" width="100%" alt="Dharmendra Prasad banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=4DA3FF&center=true&vCenter=true&width=820&height=40&lines=I+design+secure%2C+governed+Azure+platforms+at+enterprise+scale;Everything+as+code.+Security+shifted+left.+Governance+by+default.;9%2B+years+%E2%80%A2+Telecom+%E2%86%92+Cloud+%E2%86%92+DevSecOps+%E2%86%92+Platform+Leadership)](https://github.com/cloudwithdharm)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0078D4&center=true&vCenter=true&width=760&lines=9%2B+Years+in+IT+%26+Cloud+Engineering;Azure+Landing+Zones+%7C+Hub-Spoke+%7C+Governance;Terraform+IaC+%7C+Secure+CI%2FCD+%7C+DevSecOps;I+build+cloud+platforms+that+are+secure%2C+scalable+%26+boring+in+production)](https://github.com/cloudwithdharm)
 
-<br/>
-
-![Experience](https://img.shields.io/badge/EXPERIENCE-9%2B_YEARS-0B1F3A?style=for-the-badge&labelColor=0078D4)
-![Cloud](https://img.shields.io/badge/CLOUD_%26_DEVSECOPS-6%2B_YEARS-0B1F3A?style=for-the-badge&labelColor=5E2CA5)
-![Provisioning](https://img.shields.io/badge/PROVISIONING_TIME-%E2%88%9280%25-0B1F3A?style=for-the-badge&labelColor=107C10)
-![Focus](https://img.shields.io/badge/FOCUS-AZURE_%C2%B7_TERRAFORM_%C2%B7_SECURITY-0B1F3A?style=for-the-badge&labelColor=CA5010)
-
-<a href="https://www.linkedin.com/in/dharmendra-prasad92"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dharmendraprasad708@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Hyderabad-India-2ea44f?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=cloudwithdharm&label=Views&color=0078D4&style=flat-square"/>
+<p>
+  <a href="https://www.linkedin.com/in/dharmendra-prasad92"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dharmendraprasad708@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-success?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=cloudwithdharm&label=Profile%20Views&color=0078D4&style=for-the-badge"/>
+</p>
 
 </div>
 
-<br/>
+---
 
-## 🧭 Who I Am
+## 👋 About Me
 
-I'm a **Senior DevSecOps Engineer at AmeriCloud** who builds the **foundation other teams build on**: governed Azure tenants, hub-and-spoke networks, Terraform landing zones and secure delivery pipelines.
+I'm a **Senior DevSecOps Engineer** with **9+ years of IT experience** — including **6+ years in Cloud, DevOps and DevSecOps** — currently at **AmeriCloud**, Hyderabad.
 
-My career started in **telecom and network engineering** (Ericsson, Nokia), so I think about cloud the way a network engineer does: **connectivity, segmentation, inspection and resilience first**. That is why my platforms are secure and predictable in production.
+I started in **telecom and networking** (Ericsson, Nokia), moved into **cloud automation**, and today I design **enterprise-grade Azure platforms**: governed tenants, hub-and-spoke networks, Terraform landing zones, and secure CI/CD pipelines. That networking foundation is why my cloud designs are strong on connectivity, security and reliability.
 
-> **I don't just deploy resources. I design operating models:** how subscriptions are organised, how access is granted, how code reaches production, and how cost, security and recovery are controlled.
+> 💡 **My engineering philosophy:** *Everything as code. Security shifted left. Governance by default. Automate the boring so people can focus on the hard.*
 
-<br/>
+| | |
+|---|---|
+| 🔭 **Focus** | Azure Landing Zones, Terraform automation, DevSecOps, Cloud Governance |
+| 🎯 **Impact** | Cut infrastructure provisioning time by **80%** with Terraform automation |
+| 🤝 **Leadership** | Technical lead mindset: vendor management, KT sessions, team upskilling |
+| 📬 **Open to** | Collaboration on Azure, Terraform and DevSecOps topics |
 
-## ⚡ Impact at a Glance
+---
 
-| 🚀 Delivery | 🔐 Security | 🏛️ Governance | 🤝 Leadership |
-|:---:|:---:|:---:|:---:|
-| **80% faster** infrastructure provisioning with Terraform | Security scanning built into every pipeline | Management groups, Policy and RBAC by design | Vendor management, KT and team upskilling |
-| Consistent **Dev → UAT → Prod** | **RBAC** and least-privilege access | Policy exemptions with justification | SOW, RFP/RFI and deliverable sign-off |
-
-<br/>
-
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,terraform,azurepipelines,githubactions,jenkins,kubernetes,docker,helm,prometheus,grafana,linux,ubuntu,bash,powershell,python,git,github,bitbucket,jira&perline=10" alt="skills"/></a>
+**☁️ Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**🔁 CI/CD & DevOps**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**📦 Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+**🔐 Security & DevSecOps**
+
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**📊 Monitoring & Observability**
+
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**💻 OS & Scripting**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**☁️ Cloud Platform**
-`Azure` `Entra ID` `VNet` `Load Balancer` `Application Gateway` `Azure Firewall` `Key Vault` `Storage` `ACR` `AKS`
+## 🏛️ What I Do: Enterprise Azure Platform Engineering
 
-**🏗️ Infrastructure as Code**
-`Terraform` `ARM Templates` `Reusable Modules` `Remote State`
+### 1️⃣ Tenant & Management Group Hierarchy (Governance)
+Designing a clean, scalable governance foundation on **Microsoft Entra ID** and Azure.
 
-**🔁 CI/CD**
-`Azure DevOps` `Azure Pipelines` `GitHub Actions` `Jenkins`
-
-</td>
-<td width="50%" valign="top">
-
-**🔐 DevSecOps**
-`SonarQube` `Trivy` `TFLint` `OWASP` `RBAC` `Defender` `Azure Policy` `Vulnerability Mgmt`
-
-**📦 Containers**
-`Docker` `Kubernetes (AKS)` `Helm`
-
-**📊 Observability**
-`Azure Monitor` `Log Analytics` `Prometheus` `Grafana`
-
-**💻 Systems & Scripting**
-`Linux` `Windows Server` `Bash` `PowerShell` `Python`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏛️ Enterprise Azure Platform Engineering
-
-*Expand any area to see how I approach it.*
-
-<details open>
-<summary><b>🧱 1 · Tenant, Management Groups & Governance</b></summary>
-<br/>
-
-A clean hierarchy is the backbone of governance: policy and access flow **down**, and exceptions are explicit.
+- Tenant root group with **Platform**, **Sandbox** and **Decommissioned** management groups
+- Subscription boundaries: **platform subscriptions** (identity, connectivity, management) vs **application subscriptions**
+- **Azure Policy & Initiatives** assignments at management group scope
+- **RBAC group formation** with least-privilege access
+- **Subscription onboarding & offboarding** process
+- **Policy exemptions** with documented justification and expiry
+- Identity & access governance: user management, group management, **Defender for Cloud**, Policy
 
 ```mermaid
 graph TD
-    R["Tenant Root Group<br/>Microsoft Entra ID"] --> P["Platform MG"]
-    R --> L["Landing Zones MG"]
-    R --> S["Sandbox MG"]
-    R --> D["Decommissioned MG"]
-    P --> P1["Identity"]
-    P --> P2["Connectivity"]
-    P --> P3["Management"]
-    L --> L1["App Sub · Prod"]
-    L --> L2["App Sub · Non-Prod"]
-    style R fill:#0B1F3A,color:#fff
-    style P fill:#0078D4,color:#fff
-    style L fill:#107C10,color:#fff
-    style S fill:#CA5010,color:#fff
-    style D fill:#605E5C,color:#fff
+    A[Tenant Root Group<br/>Microsoft Entra ID] --> B[Platform MG]
+    A --> C[Landing Zones MG]
+    A --> D[Sandbox MG]
+    A --> E[Decommissioned MG]
+    B --> B1[Identity Sub]
+    B --> B2[Connectivity Sub]
+    B --> B3[Management Sub]
+    C --> C1[App Sub - Prod]
+    C --> C2[App Sub - Non-Prod]
+    style A fill:#0078D4,color:#fff
+    style B fill:#5E2CA5,color:#fff
+    style C fill:#107C10,color:#fff
+    style D fill:#CA5010,color:#fff
+    style E fill:#605E5C,color:#fff
 ```
 
-- Subscription boundaries: **platform** vs **application** subscription design
-- **Azure Policy & initiatives** assigned at management group scope
-- **RBAC group model**: access via groups, never individuals
-- **Subscription onboarding / offboarding** runbooks
-- **Policy exemptions** with written justification and expiry
-- **Defender for Cloud**, user and group lifecycle in Entra ID
+### 2️⃣ Cloud Adoption Framework (CAF) Strategy
+Aligning cloud programs to the **Microsoft CAF** lifecycle: **Strategy → Plan → Ready → Adopt → Govern → Secure → Manage**.
 
-</details>
-
-<details>
-<summary><b>🌐 2 · Hub-and-Spoke Networking</b></summary>
-<br/>
-
-**Centralized inspection · Shared connectivity · Controlled egress**
+### 3️⃣ Hub-and-Spoke Networking
+- **IP address management**, CIDR planning and **on-premises CIDR assessment** to avoid overlaps
+- **Hub VNet** following best practices, with **spoke VNets via peering**
+- **Centralized inspection** (Azure Firewall), **shared connectivity**, **controlled egress**
+- **UDRs**, firewall rules, **Private DNS zones**, **Private Endpoints**
+- **VPN Gateway** and **ExpressRoute** for hybrid connectivity
 
 ```mermaid
 graph LR
-    OP["On-Premises<br/>VPN / ExpressRoute"] --> GW
-    subgraph HUB["Hub VNet"]
-        GW["VPN / ER Gateway"]
-        FW["Azure Firewall"]
-        DNS["Private DNS Zones"]
+    OP[On-Premises<br/>VPN / ExpressRoute] --> HUB
+    subgraph HUB[Hub VNet]
+        FW[Azure Firewall]
+        GW[VPN / ER Gateway]
+        DNS[Private DNS]
     end
-    HUB <-->|Peering| S1["Spoke · Prod"]
-    HUB <-->|Peering| S2["Spoke · Non-Prod"]
-    HUB <-->|Peering| S3["Spoke · Shared Services"]
-    S1 -->|"UDR 0.0.0.0/0"| FW
-    S2 -->|"UDR 0.0.0.0/0"| FW
-    S3 -->|"UDR 0.0.0.0/0"| FW
-    FW --> NET(("Internet<br/>Controlled Egress"))
+    HUB <-->|Peering| S1[Spoke 1 - Prod]
+    HUB <-->|Peering| S2[Spoke 2 - Non-Prod]
+    HUB <-->|Peering| S3[Spoke 3 - Shared Services]
+    S1 -->|UDR 0.0.0.0/0| FW
+    S2 -->|UDR 0.0.0.0/0| FW
+    S3 -->|UDR 0.0.0.0/0| FW
+    FW --> NET((Internet<br/>Controlled Egress))
 ```
 
-- **IPAM & CIDR planning**, including on-premises CIDR assessment to prevent overlap
-- **UDRs**, firewall rule design, **Private Endpoints** and **Private DNS**
-- **VPN Gateway & ExpressRoute** for hybrid connectivity
-
-</details>
-
-<details>
-<summary><b>🛡️ 3 · Defense in Depth</b></summary>
-<br/>
-
-| Layer | What I enforce |
+### 4️⃣ Defense in Depth: Security at Every Layer
+| Layer | Controls |
 |---|---|
-| 🪪 **Identity** | Entra ID, group-based RBAC, least privilege |
-| 🌐 **Network** | Hub firewall, NSGs, UDRs, Private Endpoints |
-| 📜 **Governance** | Management groups, Azure Policy, initiatives |
-| 🖥️ **Compute** | Hardening, Defender, patching, vulnerability management |
+| 🪪 **Identity** | Entra ID, RBAC, least privilege, group-based access |
+| 🌐 **Networking** | Hub firewall, NSGs, UDRs, Private Endpoints, Private DNS |
+| 📜 **Governance** | Management groups, Azure Policy, initiatives, exemptions |
+| 🖥️ **Compute** | Hardened images, Defender, patching, vulnerability management |
 
-</details>
-
-<details>
-<summary><b>🏗️ 4 · Terraform Landing Zone Automation</b></summary>
-<br/>
-
-- **Remote state** with least-privilege access and **encryption at rest**
-- **Versioned, reusable modules**
-- Quality gates: **linting · secret scanning · security scanning · testing · cost estimation**
+### 5️⃣ Terraform Landing Zone Automation
+- **Remote state** with **least-privilege access** to state files and **encryption at rest**
+- **Reusable modules** with versioning
+- Pipeline quality gates: **linting (TFLint)**, **secret scanning**, **security scanning**, **testing**, **cost estimation**
 - **Manual approvals** before apply
-- **Drift detection** via scheduled pipelines
+- **Drift detection** using scheduled pipelines
 
-```hcl
-# Pattern: remote state, locked down and encrypted
-terraform {
-  backend "azurerm" {
-    resource_group_name  = "rg-tfstate-platform"
-    storage_account_name = "sttfstateplatform"
-    container_name       = "tfstate"
-    key                  = "landingzone/prod.tfstate"
-    use_azuread_auth     = true   # RBAC, not access keys
-  }
-}
-```
-
-</details>
-
-<details>
-<summary><b>🔁 5 · Secure Pipelines & Branching Strategy</b></summary>
-<br/>
+### 6️⃣ Azure Repos & DevSecOps Pipelines
+- **Trunk-based** branching with short-lived feature branches
+- Branch policies: **PR mandatory**, no delete on `main`, **CODEOWNERS**, minimum reviewers
+- Reusable **pipeline templates**: `Validate & Test` → `Build` → `Deploy` → `Apply` → `Rollback`
+- **Parallel jobs** for faster feedback
 
 ```mermaid
 flowchart LR
-    A["Short-lived<br/>feature branch"] --> B["Pull Request<br/>(mandatory)"]
-    B --> C["Validate & Test<br/>fmt · TFLint · Sonar · Trivy"]
-    C --> D["Plan + Cost"]
-    D --> E{"Manual<br/>Approval"}
-    E -->|Approved| F["Apply / Deploy"]
+    A[Feature Branch] --> B[Pull Request]
+    B --> C[Validate & Test<br/>fmt, TFLint, Sonar, Trivy]
+    C --> D[Plan + Cost Estimate]
+    D --> E{Manual Approval}
+    E -->|Approved| F[Apply / Deploy]
     E -->|Rejected| A
-    F --> G["Monitor +<br/>Drift Detection"]
-    F -.->|Failure| H["Rollback"]
+    F --> G[Monitor & Drift Detection]
+    F -.->|Failure| H[Rollback]
 ```
 
-- **Trunk-based** development, branch policies, **no delete on `main`**, **CODEOWNERS**, minimum reviewers
-- Reusable templates: **Validate & Test → Build → Deploy → Apply → Rollback**
-- **Parallel jobs** for fast feedback
+### 7️⃣ Cloud Migrations
+Migration strategies, **assessment, discovery and readiness**, pre-checklists, **cutover**, post-checklists and **hypercare**, with structured checklists before, during and after each cutover.
 
-</details>
+### 8️⃣ FinOps & Cost Optimization
+Hunting **idle resources**, **unattached disks** and **oversized VMs**; trimming unnecessary **log ingestion**; **auto-shutdown/start** schedules; **reserved capacity**; and right-sized **backup retention**.
 
-<details>
-<summary><b>🚚 6 · Cloud Migration</b></summary>
-<br/>
+### 9️⃣ Backup, DR & High Availability
+**LRS / ZRS / GRS** storage choices, **VMSS**, primary and secondary region design, driven by clear **RTO / RPO** targets.
 
-**Assess → Discover → Readiness → Pre-checklist → Cutover → Post-checklist → Hypercare**
+### 🔟 Monitoring & Observability
+**Azure Monitor**, **Log Analytics**, alerting, plus **Prometheus & Grafana** for Kubernetes workloads.
 
-Clear migration strategy per workload, with checklists *before, during and after* cutover so nothing is left to memory.
+---
 
-</details>
+## 🤝 Technical Leadership & Vendor Management
 
-<details>
-<summary><b>💰 7 · FinOps & Cost Optimization</b></summary>
-<br/>
+Beyond hands-on engineering, I operate as a **technical lead**:
 
-Idle resources · Unattached disks · Oversized VMs · Unnecessary log ingestion · VM auto-shutdown/start · Reserved capacity · Right-sized backup retention
+- **Vendor management:** technical task assignment, **SOW**, **RFP / RFI**, technical evaluation matrix, commercial proposals, escalation matrix
+- **Delivery governance:** scope, deliverables, acceptance criteria, sprints, dependencies, risks, accountability, payment milestones as per contract
+- **Cadence:** weekly reviews, retro calls, deliverable sign-off
+- **Transitions:** knowledge transfer, documentation handover, **RACI**
+- **People:** team management, upskilling strategy, infra and application initiatives, senior-level interviews and KT sessions
 
-</details>
+---
 
-<details>
-<summary><b>♻️ 8 · Backup, DR & High Availability</b></summary>
-<br/>
-
-**LRS / ZRS / GRS** · **VMSS** · Primary and secondary regions · Designs driven by explicit **RTO / RPO** targets
-
-</details>
-
-<details>
-<summary><b>📈 9 · Monitoring & Observability</b></summary>
-<br/>
-
-**Azure Monitor** · **Log Analytics** · Alerting · **Prometheus & Grafana** for Kubernetes workloads
-
-</details>
-
-<details>
-<summary><b>🤝 10 · Technical Leadership & Vendor Management</b></summary>
-<br/>
-
-| Area | Scope |
-|---|---|
-| **Vendor lifecycle** | RFI / RFP, technical evaluation matrix, commercial proposals, SOW |
-| **Delivery control** | Deliverables, acceptance criteria, sprints, dependencies, risks, payment milestones |
-| **Cadence** | Weekly reviews, retro calls, sign-off, escalation matrix |
-| **Transitions** | Knowledge transfer, documentation handover, RACI |
-| **People** | Team management, upskilling strategy, senior-level interviews |
-
-</details>
-
-<br/>
-
-## 💼 Career Journey
-
-```mermaid
-timeline
-    title From Telecom Networks to Cloud Platform Leadership
-    2017 : Network Engineer · Teleysia / Nokia
-    2018 : Network & IT Support · Ericsson
-    2021 : Cloud & Automation Engineer · Ericsson
-    2022 : DevOps & Security Engineer · CEMtics
-    2024 : Senior DevSecOps Engineer · AmeriCloud
-```
+## 💼 Experience
 
 | Period | Role | Company |
 |---|---|---|
-| **May 2024 – Present** | **Senior DevSecOps Engineer** | **AmeriCloud**, Hyderabad |
+| **May 2024 – Present** | Senior DevSecOps Engineer | **AmeriCloud**, Hyderabad |
 | Mar 2022 – May 2024 | DevOps & Security Engineer | CEMtics Solution, Gurgaon |
 | Apr 2021 – Feb 2022 | Cloud & Automation Engineer | Ericsson Global India |
-| 2017 – 2021 | Network & IT Support Engineer | Ericsson · Nokia · Teleysia |
+| Sep 2018 – Apr 2021 | Network & IT Support Engineer | Ericsson India |
+| Feb 2017 – Sep 2018 | Network Engineer | Nokia (Rajasthan) / Teleysia Network |
 
-<br/>
+### 🏆 Highlights
+- ⚡ **80% faster** infrastructure provisioning through Terraform automation
+- 🔁 Consistent deployments across **Dev, UAT and Production**
+- 🔐 Stronger security posture through **RBAC** and pipeline security validation
+- 🚀 Faster, more reliable releases through CI/CD automation
+- ☁️ Contributed to cloud migration and infrastructure modernization initiatives
 
-## 📌 Featured Work
+---
 
-| Project | Stack | Outcome |
+## 📌 Featured Projects
+
+| Project | Stack | What it covers |
 |---|---|---|
-| **Azure Infrastructure Automation** | Terraform · Azure · Linux · Git | Modular IaC for VNets, NSGs, storage and VMs with remote state and CI/CD |
-| **Secure CI/CD Pipeline** | Azure DevOps · GitHub · Terraform · SonarQube | Automated delivery with quality and security gates |
-| **Kubernetes Deployment on AKS** | Docker · AKS · ACR | Scalable, monitored containerized applications |
+| **Azure Infrastructure Automation** | Terraform, Azure, Linux, Git | Modular IaC for VNets, subnets, NSGs, storage and Linux VMs, with remote state and CI/CD integration |
+| **Secure CI/CD Pipeline** | Azure DevOps, GitHub, Terraform, SonarQube | Automated pipelines with code quality and security validation gates |
+| **Kubernetes Application Deployment** | Docker, AKS, ACR | Containerized apps, deployments, scaling and monitoring on AKS |
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cloudwithdharm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithdharm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cloudwithdharm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithdharm&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=cloudwithdharm&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
 ## 🎓 Education & Certification
 
-- 🎓 **B.Tech** · Electronics & Communication Engineering
-- ☁️ **AWS Cloud** · Ethans Tech (ISO Certified) · Jan 2021
+- 🎓 **B.Tech**, Electronics & Communication Engineering
+- ☁️ **AWS Cloud**, Ethans Tech (ISO Certified), Jan 2021
 
-<br/>
+---
 
 ## 🌱 Currently
 
 - 🔨 Building reusable Terraform modules and Azure landing zone patterns
 - 📚 Deepening DevSecOps automation and platform governance
-- 💬 Open to conversations on Azure architecture, Terraform and DevSecOps
+- 🧭 Sharing real-world cloud engineering lessons
 
-<br/>
+---
+
+## 📫 Let's Connect
 
 <div align="center">
-
-### 📫 Let's Build Something Reliable
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dharmendra--prasad92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmendra-prasad92)
 [![Email](https://img.shields.io/badge/Email-dharmendraprasad708%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmendraprasad708@gmail.com)
 
-*"Automate everything. Secure by default. Govern at scale."*
+*"Automate everything. Secure by default. Govern at scale."* ☁️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E2CA5,50:0078D4,100:0B1F3A&height=130&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E2CA5,100:0078D4&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
