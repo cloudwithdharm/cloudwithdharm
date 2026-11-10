@@ -1,6 +1,7 @@
+<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1F3A,50:0078D4,100:5E2CA5&height=260&section=header&text=DHARMENDRA%20PRASAD&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Senior%20DevSecOps%20Engineer%20%C2%B7%20Azure%20Platform%20%26%20Governance%20%C2%B7%20Terraform%20Landing%20Zones&descAlignY=62&descSize=17" width="100%" alt="Dharmendra Prasad"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5E2CA5&height=220&section=header&text=Dharmendra%20Prasad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevSecOps%20%7C%20Azure%20Cloud%20%7C%20Terraform%20%7C%20Platform%20Governance&descAlignY=58&descSize=18" width="100%" alt="Dharmendra Prasad banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=4DA3FF&center=true&vCenter=true&width=820&height=40&lines=I+design+secure%2C+governed+Azure+platforms+at+enterprise+scale;Everything+as+code.+Security+shifted+left.+Governance+by+default.;9%2B+years+%E2%80%A2+Telecom+%E2%86%92+Cloud+%E2%86%92+DevSecOps+%E2%86%92+Platform+Leadership)](https://github.com/cloudwithdharm)
 
